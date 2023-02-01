@@ -10,26 +10,9 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Python", "Java"],
-    askMeAbout: ["web development", "artificial intelligence", "natural language processing", "scholarships abroad"],
-    technologies: {
-        backEnd: {
-            java: ["spring boot", "spring mvc", "native"]
-            ruby: ["ruby on rails"]
-            js: ["node", "express", "meteor"],
-            python: ["flask", "jango"]
-        },
-        devOps: ["AWS", "Docker🐳"],
-        databases: ["mongo", "MySql", "postgreSQL", "redis"],
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Named Entity Classification and Recognition",
-    businessApplicationArea: "e-commerce","social media",
-};
-```
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
