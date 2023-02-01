@@ -4,7 +4,7 @@
 </em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rifairizqi3?label=Follow)
-[![Linkedin: fajar](https://img.shields.io/badge/-ahmad%20fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rnrifai/)](https://www.linkedin.com/in/ahmad-fajar)
+[![Linkedin: fajar](https://img.shields.io/badge/-ahmad%20fajar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rnrifai/)](https://www.linkedin.com/in/rnrifai)
 ![GitHub followers](https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://iihao.id/)](https://fajarah.wordpress.com/)
 
