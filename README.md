@@ -11,22 +11,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <!--START_SECTION:waka-->
-name: Waka Readme
 
-on:
-  schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
-  workflow_dispatch:
-jobs:
-  update-readme:
-    name: Update Readme with Metrics
-    runs-on: ubuntu-latest
-    steps:
-      - uses: rifairizqi3/waka-readme-stats@master
-        with:
-          WAKATIME_API_KEY: ${{ waka_9a1f5bd1-2084-42ee-8fda-812a7e48d7c6 }}
-          GH_TOKEN: ${{ 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 }}
 <!--END_SECTION:waka-->
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
