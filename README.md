@@ -1,4 +1,4 @@
-<h2>Hello, I'm Rizqi Nur Rifai</h2>
+# Hello, My Name Rizqi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 <img align=right src="https://user-images.githubusercontent.com/84585203/216358985-dd435bb9-e721-448b-99c9-30c4781b9063.png" width="250px"/>
 <p><em>DevOps Engineer at <a href="http://digitalnayaka.com"><b>PT. Digital Nayaka Abhinaya</a></p>
 
@@ -13,9 +13,10 @@
 <em>I am someone who is interested in the world of IT, Graphic Design, Graphic Video, Photography and the development of several web-based information applications. Therefore, I am very happy to implement and share what I already know and have with others, so that it becomes very useful, especially in the IT world which I have been working on for the past few years. 😊</em>
 
 <p><em>Personal site <a href="http://iihao.id">iihao.id</a>
-  
+
+ ## &#x1f4c8; GitHub Stats 
 ![Rizqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifai-rizqi3&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=compact%)](https://github.com/rifai-rizqi3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=compact%&theme=radical)](https://github.com/rifai-rizqi3/github-readme-stats)
   
  ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
