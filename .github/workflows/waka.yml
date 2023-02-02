@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: rifairizqi3/waka-readme-stats@master
         with:
-          WAKATIME_API_KEY: ${{ waka_9a1f5bd1-2084-42ee-8fda-812a7e48d7c6 }}
+          WAKATIME_API_KEY: ${{ waka_31ac6d1b-08a8-43c5-b3f3-4f1b950d83e1 }}
           GH_TOKEN: ${{ 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 }}
