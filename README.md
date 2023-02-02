@@ -1,7 +1,6 @@
 <h2>Hello, I'm Rizqi Nur Rifai</h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>DevOps Engineer at <a href="http://digitalnayaka.com">PT. Digital Nayaka Abhinaya</a>
-</em><img src="https://drive.google.com/file/d/128GImEf6hPmr8wHL_tcVWrvScIJ3-Hq7/view?usp=sharing" width="5"> </p>
+<img align='right' src="https://giphy.com/gifs/transparent-FY5tUVQw4H2Cs0Bs36" width="230">
+<p><em>DevOps Engineer at <a href="http://digitalnayaka.com">PT. Digital Nayaka Abhinaya</a></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rifairizqi3?label=Follow)
 [![Linkedin: rnrifai](https://img.shields.io/badge/-Rizqi%20Nur%20Rifai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rnrifai/)](https://www.linkedin.com/in/rnrifai)
