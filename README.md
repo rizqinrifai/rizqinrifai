@@ -1,4 +1,5 @@
 <h2>Hello, I'm Rizqi Nur Rifai</h2>
+![1675094194945bg](https://user-images.githubusercontent.com/84585203/216358985-dd435bb9-e721-448b-99c9-30c4781b9063.png)
 <p><em>DevOps Engineer at <a href="http://digitalnayaka.com">PT. Digital Nayaka Abhinaya</a></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rifairizqi3?label=Follow)
