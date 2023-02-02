@@ -1,5 +1,4 @@
 <h2>Hello, I'm Rizqi Nur Rifai</h2>
-<img align='right' src="https://giphy.com/gifs/transparent-FY5tUVQw4H2Cs0Bs36" width="230">
 <p><em>DevOps Engineer at <a href="http://digitalnayaka.com">PT. Digital Nayaka Abhinaya</a></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/rifairizqi3?label=Follow)
