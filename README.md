@@ -1,4 +1,4 @@
-# Hello, My Name Rizqi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+# Hello, My Name Rizqi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rifai-rizqi3/rifai-rizqi3" alt="rifai-rizqi3">
 <img align=right src="https://user-images.githubusercontent.com/84585203/216358985-dd435bb9-e721-448b-99c9-30c4781b9063.png" width="250px"/>
 <p><em>DevOps Engineer at <a href="http://digitalnayaka.com"><b>PT. Digital Nayaka Abhinaya</a></p>
 
