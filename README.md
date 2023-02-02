@@ -6,15 +6,27 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/rifairizqi3?label=Follow)
 [![Linkedin: rnrifai](https://img.shields.io/badge/-Rizqi%20Rifai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rnrifai/)](https://www.linkedin.com/in/rnrifai)
 ![GitHub followers](https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://iihao.id/)](https://fajarah.wordpress.com/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://iihao.id/)](https://iihao.id/)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <!--START_SECTION:waka-->
-<img
-  src="https://github.com/rifai-rizqi3/rifai-rizqi3/blob/main/images/stat.svg"
-  alt="Rizqi WakaTime Activity"
-/>
+name: Waka Readme
+
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: rifairizqi3/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ waka_9a1f5bd1-2084-42ee-8fda-812a7e48d7c6 }}
+          GH_TOKEN: ${{ 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 }}
 <!--END_SECTION:waka-->
 
 <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
