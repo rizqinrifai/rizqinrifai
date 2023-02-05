@@ -2,7 +2,7 @@
 <img align=right src="https://user-images.githubusercontent.com/84585203/216358985-dd435bb9-e721-448b-99c9-30c4781b9063.png" width="250px"/>
 <p><em>DevOps Engineer at <a href="http://digitalnayaka.com"><b>PT. Digital Nayaka Abhinaya</a></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/rifairizqi3?label=Follow)
+![Twitter Follow](https://img.shields.io/twitter/follow/rifairizqi3?style=social)
 [![Linkedin: rnrifai](https://img.shields.io/badge/-Rizqi%20Nur%20Rifai-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rnrifai/)](https://www.linkedin.com/in/rnrifai)
 ![GitHub followers](https://img.shields.io/github/followers/secondl1f3?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://iihao.id/)](https://iihao.id/)
