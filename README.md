@@ -12,7 +12,6 @@
 <a href="https://stackoverflow.com/users/21149576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21149576" height="20" width="30" /></a>
 <a href="https://codesandbox.com/rifai-rizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rifai-rizqi3" height="20" width="20" /></a>
 <a href="https://www.hackerrank.com/rifai_rizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rifai_rizqi3" height="20" width="30" /></a>
-<a href="https://discord.gg/rifairizqi3#5933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="rifairizqi3#5933" height="20" width="30" /></a>
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
