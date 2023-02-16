@@ -16,7 +16,10 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> A little more about me...  
 
-<em>I am someone who is interested in the world of IT, Graphic Design, Graphic Video, Photography and the development of several web-based information applications. Therefore, I am very happy to implement and share what I already know and have with others, so that it becomes very useful, especially in the IT world which I have been working on for the past few years. 😊</em>
+<em>Hi, I’m Rizqi and I’m a DevOps Engineer at PT. Digital Nayaka ABhinaya. My current focus is optimizing Cloud Computing.
+<br>
+ My background is in computer science. Before joining this team, I worked with big data to identify insights for our clients in the digital industry. <br>
+ I’m excited to work with you all to solve our clients’ biggest challenges!😊</em>
 
 <p><em>Personal site <a href="http://iihao.id">iihao.id</a>
 
