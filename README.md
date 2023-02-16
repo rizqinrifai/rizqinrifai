@@ -15,7 +15,7 @@
 
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> A little more about me...  
 
-<p>Hi, I’m <a href="http://iihao.id"><b>Rizqi</b></a> and I’m a <b>DevOps</b> Engineer at <a href="http://digitalnayaka.com"><b>PT. Digital Nayaka Abhinaya.</b></a> My current focus is optimizing Cloud Computing.
+<p>Hi, I’m <a href="http://iihao.id"><b>Rizqi</b></a> and I’m a <b>DevOps Engineer</b> at <a href="http://digitalnayaka.com"><b>PT. Digital Nayaka Abhinaya.</b></a> My current focus is optimizing Cloud Computing.
  My background is in computer science. Before joining this team, I worked with big data to identify insights for our clients in the digital industry.
  I’m excited to work with you all to solve our clients’ biggest challenges! 😊</p>
 
