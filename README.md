@@ -13,7 +13,7 @@
 <a href="https://www.hackerrank.com/rifai_rizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rifai_rizqi3" height="20" width="30" /></a>
 </p>
 
-# A little more about me...  
+### A little more about me...  
 
 <p>Hi, I’m <a href="http://rnrifai.tech"><b>Rizqi</b></a> and I’m a <b>DevOps Engineer</b> at <a href="http://digitalnayaka.com"><b>PT. Digital Nayaka Abhinaya.</b></a> My current focus is optimizing Cloud Computing.
  My background is in computer science. Before joining this team, I worked with big data to identify insights for our clients in the digital industry.
