@@ -21,7 +21,7 @@
 
 <p>Personal site <a href="http://rnrifai.tech"><em><b>rnrifai.tech</b></em></a>
 
-# The Technology I use.
+# The Technology I Use.
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> 
