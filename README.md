@@ -6,11 +6,21 @@
 <!--  <a href="https://fb.com/rifairizqi.hao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rifairizqi.hao" height="20" width="30" /></a> -->
 <!--  <a href="https://instagram.com/rizqinurrifai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rizqinurrifai_" height="20" width="30" /></a> -->
 <!--  <a href="https://twitter.com/rifairizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rifairizqi3" height="20" width="30" /></a> -->
- <a href="https://www.youtube.com/@rifairizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rifairizqi3" height="20" width="30" /></a>
-<a href="https://dev.to/rifairizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rifairizqi3" height="20" width="30" /></a>
-<a href="https://stackoverflow.com/users/21149576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21149576" height="20" width="30" /></a>
-<a href="https://codesandbox.com/rifai-rizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rifai-rizqi3" height="20" width="20" /></a>
-<a href="https://www.hackerrank.com/rifai_rizqi3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rifai_rizqi3" height="20" width="30" /></a>
+ <a href="https://www.youtube.com/@rifairizqi3" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rifairizqi3" height="20" width="30" />
+ </a>
+<a href="https://dev.to/rifairizqi3" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rifairizqi3" height="20" width="30" />
+</a>
+<a href="https://stackoverflow.com/users/21149576" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21149576" height="20" width="30" />
+</a>
+<a href="https://codesandbox.com/rifai-rizqi3" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rifai-rizqi3" height="20" width="20" />
+</a>
+<a href="https://www.hackerrank.com/rifai_rizqi3" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rifai_rizqi3" height="20" width="30" />
+</a>
 </p>
 
 ### A little more about me...  
@@ -27,12 +37,16 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30" /> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="30" height="30" />
+<img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" alt="mongo" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="30" height="30" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  alt="nodejs" width="30" height="30" />
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="30" height="30" />
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" alt="prometheus" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  alt="digitalocean" width="30" height="30" />
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  alt="aws" width="30" height="30" />
 </p>
 
 # &#x1f4c8; GitHub Stats 
