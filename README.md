@@ -1,4 +1,4 @@
-# Ohayo Gozaimazu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /><img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rifai-rizqi3/rifai-rizqi3" alt="rifai-rizqi3">
+# Ohayo Gozaimazu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
 ![Rizqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifai-rizqi3&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=compact%&theme=radical)](https://github.com/rifai-rizqi3/github-readme-stats)
