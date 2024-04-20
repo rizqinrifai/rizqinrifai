@@ -39,6 +39,6 @@
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=donut%&theme=radical)](https://github.com/rifai-rizqi3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=compact%&theme=radical)](https://github.com/rifai-rizqi3/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rifai-rizqi3&theme=radical&card)](https://git.io/streak-stats)
 
