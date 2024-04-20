@@ -1,7 +1,15 @@
-# Ohayo Gozaimazu! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-![Rizqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rifai-rizqi3&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=compact%&theme=radical)](https://github.com/rifai-rizqi3/github-readme-stats)
+<div id="badges">
+<p align="center">
+<a href="your-linkedin-URL"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+</p>
+</div>
 
 <h3 align="center">Tools</h3>
 <p align="center">
@@ -18,6 +26,7 @@
 <img src="https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white">
 <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
+
 <h3 align="center">Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -29,3 +38,6 @@
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=compact%&theme=radical)](https://github.com/rifai-rizqi3/github-readme-stats)
+
