@@ -22,7 +22,13 @@
 <h3 align="center">Languages</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white">
 </p>
 
+<center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rifai-rizqi3&layout=compact%&theme=radical)](https://github.com/rifai-rizqi3/github-readme-stats)
+
+</center>
+
 
