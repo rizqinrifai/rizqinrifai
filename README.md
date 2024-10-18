@@ -1,8 +1,7 @@
 ### Hi there, I'm Rifai 👋
 
 ## Here's what I'm up to
-- I'm a Founder at Nareswara Teknologi Nusantara and
-- I'm a Head of Infrastructure at Jobseeker Company.
+- I'm a Founder at Nareswara Teknologi Nusantara.
 
 ### Connect with me:
 
