@@ -1,4 +1,10 @@
 # Hi there, I'm Rifai 👋
+### The technology I usually use.
+<br/>
+
+![My Skills](https://skillicons.dev/icons?i=go,rust,python,docker,kubernetes,aws,gcp,jenkins,grafana&theme=dark)
+
+---
 ### Connect with me:
 
 [<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
