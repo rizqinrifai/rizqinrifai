@@ -1,7 +1,12 @@
-# Hi there, I'm Rifai 👋
+<p align="center">
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqinrifai&theme=dark" alt="rizqinrifai" />
+</p>
+
+
 ### The technology I usually use.
 
 ![My Skills](https://skillicons.dev/icons?i=go,rust,python,docker,kubernetes,aws,gcp,jenkins,grafana&theme=dark)
+
 
 ---
 ### Connect with me:
@@ -21,10 +26,6 @@
 ---
 
 <br/>
-
-<p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqinrifai&theme=dark" alt="rizqinrifai" />
-</p>
 
 <p align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqinrifai&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinrifai" />
