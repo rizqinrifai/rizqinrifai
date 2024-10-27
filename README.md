@@ -1,26 +1,26 @@
-### Hi there, I'm Rifai 👋
-
-## Here's what I'm up to
-- I'm a Founder at Nareswara Teknologi Nusantara.
-
+# Hi there, I'm Rifai 👋
 ### Connect with me:
 
-[<img align="left" alt="darinpope | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="darinpope | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rizqinrifai | Twitter"  src="https://skillicons.dev/icons?i=twitter" />][twitter]
+[<img align="left" alt="rizqinrifai | LinkedIn"  src="https://skillicons.dev/icons?i=linkedin" />][linkedin]
 
-<br />
+<br/>
+<br/>
 
----
 [website]: https://www.nareswara.com/
 [twitter]: https://twitter.com/rizqinrifai
 [youtube]: https://youtube.com/rizqinrifai
 [instagram]: https://instagram.com/rizqinrifai 
 [linkedin]: https://linkedin.com/in/rnrifai
 
-<center>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizqinrifai&layout=compact%&theme=radical)](https://github.com/rizqinrifai/github-readme-stats)
+---
 
-</center>
+<br/>
 
+<p align="center">
+  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqinrifai&theme=dark" alt="rizqinrifai" />
+</p>
 
+<p align="center">
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqinrifai&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinrifai" />
+</p>
