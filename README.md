@@ -23,9 +23,9 @@
 <br/>
 
 <p align="center">
-  <img width="50%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqinrifai&theme=dark" alt="rizqinrifai" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqinrifai&theme=dark" alt="rizqinrifai" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqinrifai&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinrifai" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqinrifai&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinrifai" />
 </p>
