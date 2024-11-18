@@ -5,7 +5,7 @@
 
 ### The technology I usually use.
 
-![My Skills](https://skillicons.dev/icons?i=go,rust,python,docker,kubernetes,aws,gcp,jenkins,grafana&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=rust,docker,kubernetes,aws,gcp,jenkins,grafana&theme=dark)
 
 
 ---
