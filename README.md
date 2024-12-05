@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqinareswara&theme=dark" alt="rizqinrifai" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rizqinareswara&theme=dark" alt="rizqinareswara" />
 </p>
 
 
@@ -28,5 +28,5 @@
 <br/>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqinareswara&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinrifai" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rizqinareswara&show_icons=true&locale=en&layout=compact&theme=dark" alt="rizqinareswara" />
 </p>
